@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{46252577-FEA7-4D18-B831-F4627F685462}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CollectionsConcepts/GenericType.cs">
+    <Files>
+      <File FileName="CollectionsConcepts/Program.cs" Line="20" Column="66" />
+      <File FileName="CollectionsConcepts/GenericType.cs" Line="21" Column="25" />
+      <File FileName="CollectionsConcepts/NonGenericType.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CollectionsConcepts" expanded="True">
+            <Node name="CollectionsConcepts" expanded="True">
+              <Node name="GenericType.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CollectionsConcepts PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

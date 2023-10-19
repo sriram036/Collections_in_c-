@@ -1,0 +1,11 @@
+/Users/admin/Projects/CollectionsConcepts/CollectionsConcepts/bin/Debug/netcoreapp3.1/CollectionsConcepts
+/Users/admin/Projects/CollectionsConcepts/CollectionsConcepts/bin/Debug/netcoreapp3.1/CollectionsConcepts.deps.json
+/Users/admin/Projects/CollectionsConcepts/CollectionsConcepts/bin/Debug/netcoreapp3.1/CollectionsConcepts.runtimeconfig.json
+/Users/admin/Projects/CollectionsConcepts/CollectionsConcepts/bin/Debug/netcoreapp3.1/CollectionsConcepts.runtimeconfig.dev.json
+/Users/admin/Projects/CollectionsConcepts/CollectionsConcepts/bin/Debug/netcoreapp3.1/CollectionsConcepts.dll
+/Users/admin/Projects/CollectionsConcepts/CollectionsConcepts/bin/Debug/netcoreapp3.1/CollectionsConcepts.pdb
+/Users/admin/Projects/CollectionsConcepts/CollectionsConcepts/obj/Debug/netcoreapp3.1/CollectionsConcepts.csprojAssemblyReference.cache
+/Users/admin/Projects/CollectionsConcepts/CollectionsConcepts/obj/Debug/netcoreapp3.1/CollectionsConcepts.AssemblyInfoInputs.cache
+/Users/admin/Projects/CollectionsConcepts/CollectionsConcepts/obj/Debug/netcoreapp3.1/CollectionsConcepts.AssemblyInfo.cs
+/Users/admin/Projects/CollectionsConcepts/CollectionsConcepts/obj/Debug/netcoreapp3.1/CollectionsConcepts.dll
+/Users/admin/Projects/CollectionsConcepts/CollectionsConcepts/obj/Debug/netcoreapp3.1/CollectionsConcepts.pdb
